@@ -148,4 +148,4 @@ This project is for educational and research purposes.
 
 ## Contact
 
-**Author:** Your Name
+**Author:** Sarvagya Gupta
